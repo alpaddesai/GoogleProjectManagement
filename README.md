@@ -4,6 +4,8 @@
 
 ![image](ProjectSchedule.png)
 
+![image](PMI.jpg)
+
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
