@@ -4,7 +4,7 @@
 
 ![image](ProjectSchedule.png)
 
-![image](PMI.jpg)
+![image](PMIExecution.jpg)
 
 ![image](EthicsandExcellence.png)
 
